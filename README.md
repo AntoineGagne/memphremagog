@@ -9,7 +9,7 @@ source ./layers/third-party/poky/oe-init-build-env
 ```
 
 > [!NOTE]
-> All the following commands will assume that the script has been source.
+> All the following commands will assume that the script has been sourced.
 
 ### Layers
 
