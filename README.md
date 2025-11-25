@@ -8,8 +8,7 @@ To prepare the build environment, the script provided by Poky must be sourced:
 source ./layers/third-party/poky/oe-init-build-env
 ```
 
-> [!NOTE]
-> All the following commands will assume that the script has been sourced.
+All the following commands will assume that the script has been sourced.
 
 ### Layers
 
