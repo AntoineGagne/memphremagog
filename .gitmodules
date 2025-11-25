@@ -1,0 +1,12 @@
+[submodule "layers/third-party/poky"]
+	path = layers/third-party/poky
+	url = git://git.yoctoproject.org/poky
+    ignore = dirty
+[submodule "layers/third-party/meta-openembedded"]
+	path = layers/third-party/meta-openembedded
+	url = git://git.openembedded.org/meta-openembedded
+    ignore = dirty
+[submodule "layers/third-party/meta-raspberrypi"]
+	path = layers/third-party/meta-raspberrypi
+	url = https://github.com/agherzan/meta-raspberrypi
+    ignore = dirty
